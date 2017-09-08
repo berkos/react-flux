@@ -4,7 +4,7 @@
   "description": "Course source files for the title \"Mastering Flux\"",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server",
+    "start": "nodemon index",
     "pack": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,7 +30,7 @@
     "ejs": "^2.5.2",
     "express": "^4.15.4",
     "mongoose": "^4.7.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.12.0"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
