@@ -29,7 +29,7 @@
     "body-parser": "^1.15.2",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
-    "mongoose": "^4.7.0",
+    "mongoose": "^4.11.11",
     "nodemon": "^1.12.0"
   },
   "devDependencies": {
